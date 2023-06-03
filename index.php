@@ -110,5 +110,6 @@ include'config.php';
         integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous">
     </script> -->
 </body>
-<!-- this project was built by Tandap Noel Bansikah -->
+
 </html>
+this project was built by Tandap Noel Bansikah
